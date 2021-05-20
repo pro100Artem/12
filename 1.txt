@@ -1,9 +1,3 @@
 aaaaaaaa
 bbbbbbbbb
-<<<<<<< HEAD
-11111
-=======
-ccccccccc
-ddddddd
->>>>>>> main
-dsfsdfsd
+ne znau
